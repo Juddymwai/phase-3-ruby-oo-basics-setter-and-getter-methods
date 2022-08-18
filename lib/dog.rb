@@ -15,10 +15,10 @@ class Dog
     end
 end
 
-Lorri = Dog.new
-Lorri.name= "Lorri"
- Lorri.breed = "chihuahua"
-puts Lorri.name
-puts Lorri.breed
+lorri = Dog.new
+lorri.name= "Lorri"
+lorri.breed = "chihuahua"
+puts lorri.name
+puts lorri.breed
 
 
